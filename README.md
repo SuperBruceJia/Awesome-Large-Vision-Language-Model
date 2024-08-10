@@ -87,7 +87,12 @@ ICLR 2024, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.c
 14 Jun 2023
 
 ## Contrastive Language-Image Pre-Training
-**Learning Transferable Visual Models From Natural Language Supervision**\
+**BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**\
+_Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi_\
+ICML 2022, [[Paper](https://arxiv.org/abs/2201.12086)] [[Codes and Dataset](https://github.com/salesforce/BLIP)]\
+15 Feb 2022
+
+**CLIP: Learning Transferable Visual Models From Natural Language Supervision**\
 _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_\
 ICML'21, [[Paper](https://arxiv.org/abs/2103.00020)] [[Codes](https://github.com/OpenAI/CLIP)] [[Webpage](https://openai.com/index/clip/)]\
 26 Feb 2021
