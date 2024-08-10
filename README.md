@@ -90,7 +90,7 @@ NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://githu
 
 **PandaGPT: One Model To Instruction-Follow Them All**\
 _Yixuan Su, Tian Lan, Huayang Li, Jialu Xu, Yan Wang, Deng Cai_\
-arXiv, [[Paper](https://arxiv.org/abs/2305.16355)] [[Codes](https://github.com/yxuansu/PandaGPT)] [[Webpage](https://panda-gpt.github.io/)]\
+TLLM 2023, [[Paper](https://arxiv.org/abs/2305.16355)] [[Codes](https://github.com/yxuansu/PandaGPT)] [[Webpage](https://panda-gpt.github.io/)]\
 25 May 2023
 
 **VideoLLM: Modeling Video Sequence with Large Language Models**\
