@@ -16,8 +16,8 @@ This repository, called **Large Vision-Language Model**, contains a collection o
 - [Papers](#Papers)
   - [Multimodal Large Language Models (MM-LLMs)](#Multimodal-Large-Language-Models)
     - [Alignment Before Projection](#Alignment-Before-Projection)
-    - [Conceptual Representation Projection](#Conceptual-Representation-Projection)
     - [Linear Layer Projection](#Linear-Layer-Projection)
+    - [Intermediate Networks](##Intermediate-Networks)
     - [Prompt Tuning](#Prompt-Tuning)
   - [Contrastive Language-Image Pre-Training](#Contrastive-Language-Image-Pre-Training)
     - [Intermediate Networks](#Intermediate-Networks)
@@ -50,16 +50,16 @@ _Bin Lin, Yang Ye, Bin Zhu, Jiaxi Cui, Munan Ning, Peng Jin, Li Yuan_\
 arXiv, [[Paper](https://arxiv.org/abs/2311.10122)] [[Codes](https://github.com/PKU-YuanGroup/Video-LLaVA)]\
 21 Nov 2023
 
-**ImageBind-LLM: Multi-modality Instruction Tuning**\
-_Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao_\
-arXiv, [[Paper](https://arxiv.org/abs/2309.03905)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
-11 Sep 2023
-
-### Conceptual Representation Projection
+### Intermediate Networks
 **NExT-GPT: Any-to-Any Multimodal LLM**\
 *Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua*\
 ICML 2024, [[Paper](https://arxiv.org/abs/2309.05519)] [[Codes and Dataset](https://github.com/NExT-GPT/NExT-GPT)] [[Webpage](https://next-gpt.github.io/)]\
 25 Jun 2024
+
+**ImageBind-LLM: Multi-modality Instruction Tuning**\
+_Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao_\
+arXiv, [[Paper](https://arxiv.org/abs/2309.03905)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
+11 Sep 2023
 
 ### Linear Layer Projection
 **LLaVA-OneVision: Easy Visual Task Transfer**\
