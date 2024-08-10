@@ -105,9 +105,14 @@ _Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi_\
 ICML 2023, [[Paper](https://arxiv.org/abs/2301.12597)] [[Codes](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]\
 15 Jun 2023
 
+**Flamingo: a Visual Language Model for Few-Shot Learning**\
+_Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan_\
+NeurIPS 2022, [[Paper](https://arxiv.org/abs/2301.12597)] [[Codes](https://github.com/lucidrains/flamingo-pytorch)] [[Video](https://www.youtube.com/watch?v=smUHQndcmOY)] \
+15 Nov 2022
+
 **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**\
 _Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi_\
-ICML 2022, [[Paper](https://arxiv.org/abs/2201.12086)] [[Codes and Dataset](https://github.com/salesforce/BLIP)]\
+ICML 2022, [[Paper](https://arxiv.org/abs/2204.14198)] [[Codes and Dataset](https://github.com/salesforce/BLIP)]\
 15 Feb 2022
 
 ### Simple Contrastive Learning Paradigms
