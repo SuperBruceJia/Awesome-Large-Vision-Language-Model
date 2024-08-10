@@ -76,6 +76,12 @@ NeurIPS 2023, [[Paper](https://arxiv.org/abs/2304.08485)] [[Codes](https://githu
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)]\
 13 Oct 2023
 
+### Prompt Tuning
+**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**\
+_Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao_\
+arXiv, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
+14 Jun 2023
+
 ## Contrastive Language-Image Pre-Training
 **Learning Transferable Visual Models From Natural Language Supervision**\
 _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_\
