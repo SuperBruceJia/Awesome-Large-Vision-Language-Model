@@ -80,6 +80,11 @@ NeurIPS 2023, [[Paper](https://arxiv.org/abs/2304.08485)] [[Codes](https://githu
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)]\
 13 Oct 2023
 
+**VideoLLM: Modeling Video Sequence with Large Language Models**\
+_Guo Chen, Yin-Dong Zheng, Jiahao Wang, Jilan Xu, Yifei Huang, Junting Pan, Yi Wang, Yali Wang, Yu Qiao, Tong Lu, Limin Wang_\
+arXiv, [[Paper](https://arxiv.org/abs/2305.13292)] [[Codes](https://github.com/cg1177/VideoLLM)]\
+23 May 2023
+
 ### Prompt Tuning
 **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**\
 _Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao_\
