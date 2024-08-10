@@ -20,6 +20,8 @@ This repository, called **Large Vision-Language Model**, contains a collection o
     - [Linear Layer Projection](#Linear-Layer-Projection)
     - [Prompt Tuning](#Prompt-Tuning)
   - [Contrastive Language-Image Pre-Training](#Contrastive-Language-Image-Pre-Training)
+    - [Intermediate Networks](#Intermediate-Networks)
+    - [Simple Contrastive Learning Paradigms](#Simple-Contrastive-Learning-Paradigms)
 
 # Presentations
 **Recent Advances in Vision Foundation Models**\
@@ -97,6 +99,7 @@ ICLR 2024, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.c
 14 Jun 2023
 
 ## Contrastive Language-Image Pre-Training
+### Intermediate Networks
 **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**\
 _Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi_\
 ICML 2023, [[Paper](https://arxiv.org/abs/2301.12597)] [[Codes](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]\
@@ -107,6 +110,7 @@ _Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi_\
 ICML 2022, [[Paper](https://arxiv.org/abs/2201.12086)] [[Codes and Dataset](https://github.com/salesforce/BLIP)]\
 15 Feb 2022
 
+### Simple Contrastive Learning Paradigms
 **CLIP: Learning Transferable Visual Models From Natural Language Supervision**\
 _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_\
 ICML'21, [[Paper](https://arxiv.org/abs/2103.00020)] [[Codes](https://github.com/OpenAI/CLIP)] [[Webpage](https://openai.com/index/clip/)]\
