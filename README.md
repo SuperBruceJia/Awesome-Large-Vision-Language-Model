@@ -23,7 +23,7 @@ _Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jia
 CVPR 2023 Tutorial, [[Paper](https://arxiv.org/abs/2309.10020)] [[Webpage](https://vlp-tutorial.github.io/2023/)]\
 18 Sep 2023
 
-# Books 
+# Books
 **Foundation Models for Natural Language Processing - Pre-trained Language Models Integrating Media**\
 *Gerhard Paaß, Sven Giesselbach*\
 Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)]\
@@ -51,6 +51,16 @@ ICML 2024, [[Paper](https://arxiv.org/abs/2309.05519)] [[Codes and Dataset](http
 25 Jun 2024
 
 ### Linear Layer Projection
+**Improved Baselines with Visual Instruction Tuning**\
+_Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee_\
+CVPR 2024, [[Paper](https://arxiv.org/abs/2310.03744)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
+15 May 2024
+
+**Visual Instruction Tuning**\
+_Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee_\
+NeurIPS 2023, [[Paper](https://arxiv.org/abs/2304.08485)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
+11 Dec 2023
+
 **Generating Images with Multimodal Language Models**\
 *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)]\
