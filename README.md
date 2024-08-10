@@ -22,6 +22,7 @@ This repository, called **Large Vision-Language Model**, contains a collection o
   - [Contrastive Language-Image Pre-Training](#Contrastive-Language-Image-Pre-Training)
     - [Intermediate Networks](#Intermediate-Networks)
     - [Simple Contrastive Learning Paradigms](#Simple-Contrastive-Learning-Paradigms)
+  - [Universal Embedding Space](#Universal-Embedding-Space)
 
 # Presentations
 **Recent Advances in Vision Foundation Models**\
