@@ -87,6 +87,11 @@ ICLR 2024, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.c
 14 Jun 2023
 
 ## Contrastive Language-Image Pre-Training
+**BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**\
+_Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi_\
+ICML 2023, [[Paper](https://arxiv.org/abs/2301.12597)] [[Codes](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]\
+15 Jun 2023
+
 **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**\
 _Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi_\
 ICML 2022, [[Paper](https://arxiv.org/abs/2201.12086)] [[Codes and Dataset](https://github.com/salesforce/BLIP)]\
