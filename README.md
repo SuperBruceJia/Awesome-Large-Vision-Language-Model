@@ -88,6 +88,11 @@ EMNLP 2023, [[Paper](https://arxiv.org/abs/2306.02858)] [[Codes](https://github.
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)]\
 13 Oct 2023
 
+**PandaGPT: One Model To Instruction-Follow Them All**\
+_Yixuan Su, Tian Lan, Huayang Li, Jialu Xu, Yan Wang, Deng Cai_\
+arXiv, [[Paper](https://arxiv.org/abs/2305.16355)] [[Codes](https://github.com/yxuansu/PandaGPT)] [[Webpage](https://panda-gpt.github.io/)]\
+25 May 2023
+
 **VideoLLM: Modeling Video Sequence with Large Language Models**\
 _Guo Chen, Yin-Dong Zheng, Jiahao Wang, Jilan Xu, Yifei Huang, Junting Pan, Yi Wang, Yali Wang, Yu Qiao, Tong Lu, Limin Wang_\
 arXiv, [[Paper](https://arxiv.org/abs/2305.13292)] [[Codes](https://github.com/cg1177/VideoLLM)]\
