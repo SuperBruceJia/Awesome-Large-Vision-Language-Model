@@ -33,6 +33,11 @@ _Bin Lin, Yang Ye, Bin Zhu, Jiaxi Cui, Munan Ning, Peng Jin, Li Yuan_\
 arXiv, [[Paper](https://arxiv.org/abs/2311.10122)] [[Codes](https://github.com/PKU-YuanGroup/Video-LLaVA)]\
 21 Nov 2023
 
+**ImageBind-LLM: Multi-modality Instruction Tuning**\
+_Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao_\
+arXiv, [[Paper](https://arxiv.org/abs/2309.03905)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
+11 Sep 2023
+
 ### Conceptual Representation Projection
 **NExT-GPT: Any-to-Any Multimodal LLM**\
 *Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua*\
