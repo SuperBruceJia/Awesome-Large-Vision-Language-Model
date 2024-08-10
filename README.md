@@ -16,6 +16,10 @@ This repository, called **Large Vision-Language Model**, contains a collection o
 - [Papers](#Papers)
 
 # Presentations
+**Recent Advances in Vision Foundation Models**\
+_Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jianfeng Gao_\
+CVPR 2023 Tutorial, [[Paper](https://arxiv.org/abs/2309.10020)] [[Webpage](https://vlp-tutorial.github.io/2023/)]\
+18 Sep 2023
 
 # Books 
 **Foundation Models for Natural Language Processing - Pre-trained Language Models Integrating Media**\
