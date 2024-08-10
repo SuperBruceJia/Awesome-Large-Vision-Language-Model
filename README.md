@@ -75,7 +75,7 @@ _Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee_\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2304.08485)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
 11 Dec 2023
 
-**Generating Images with Multimodal Language Models**\
+**GILL: Generating Images with Multimodal Language Models**\
 *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)]\
 13 Oct 2023
