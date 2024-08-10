@@ -51,6 +51,11 @@ ICML 2024, [[Paper](https://arxiv.org/abs/2309.05519)] [[Codes and Dataset](http
 25 Jun 2024
 
 ### Linear Layer Projection
+**LLaVA-NeXT - LLaVA-OneVision: Easy Visual Task Transfer**\
+_Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li_\
+arXiv, [[Paper](https://arxiv.org/abs/2408.03326)] [[Codes](https://github.com/LLaVA-VL/LLaVA-NeXT)] [[Webpage](https://next-gpt.github.io/)]\
+6 Aug 2024
+
 **LLaVA-1.5: Improved Baselines with Visual Instruction Tuning**\
 _Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee_\
 CVPR 2024, [[Paper](https://arxiv.org/abs/2310.03744)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
