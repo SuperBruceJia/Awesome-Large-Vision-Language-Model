@@ -30,6 +30,10 @@ _Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jia
 CVPR 2023 Tutorial, [[Paper](https://arxiv.org/abs/2309.10020)] [[Webpage](https://vlp-tutorial.github.io/2023/)]\
 18 Sep 2023
 
+**A Vision-and-Language Approach to Computer Vision in the Wild: Building a General-Purpose Assistant in the Visual World Towards Building and Surpassing Multimodal GPT-4**\
+_Chunyuan Li_\
+Deep Learning Team, Microsoft Research, Redmond, [[Presentations](https://chunyuan.li/doc/talk_cvinw_instruction_june2.pdf)]
+
 # Books
 **Foundation Models for Natural Language Processing - Pre-trained Language Models Integrating Media**\
 *Gerhard Paaß, Sven Giesselbach*\
