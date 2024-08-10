@@ -51,10 +51,15 @@ ICML 2024, [[Paper](https://arxiv.org/abs/2309.05519)] [[Codes and Dataset](http
 25 Jun 2024
 
 ### Linear Layer Projection
-**LLaVA-NeXT - LLaVA-OneVision: Easy Visual Task Transfer**\
+**LLaVA-OneVision: Easy Visual Task Transfer**\
 _Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li_\
 arXiv, [[Paper](https://arxiv.org/abs/2408.03326)] [[Codes](https://github.com/LLaVA-VL/LLaVA-NeXT)] [[Webpage](https://next-gpt.github.io/)]\
 6 Aug 2024
+
+**LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**\
+_Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li_\
+arXiv, [[Paper](https://arxiv.org/abs/2407.07895)] [[Codes](https://github.com/LLaVA-VL/LLaVA-NeXT)] [[Webpage](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)]\
+28 Jul 2024
 
 **LLaVA-1.5: Improved Baselines with Visual Instruction Tuning**\
 _Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee_\
