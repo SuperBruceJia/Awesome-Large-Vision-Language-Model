@@ -83,7 +83,7 @@ NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://githu
 ### Prompt Tuning
 **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**\
 _Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao_\
-arXiv, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
+ICLR 2024, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
 14 Jun 2023
 
 ## Contrastive Language-Image Pre-Training
