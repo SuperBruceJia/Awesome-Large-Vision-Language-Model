@@ -14,7 +14,7 @@ This repository, called **Large Vision-Language Model**, contains a collection o
 - [Books](#Books)
 - [Benchmarks](#Benchmarks)
 - [Papers](#Papers)
-  - [Multimodal Large Language Models (MM-LLMs)](#Multimodal-Large-Language-Models-)
+  - [Multimodal Large Language Models (MM-LLMs)](#Multimodal-Large-Language-Models)
 
 # Presentations
 **Recent Advances in Vision Foundation Models**\
@@ -31,7 +31,7 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 # Benchmarks
 
 # Papers
-## Multimodal Large Language Models (MM-LLMs)
+## Multimodal Large Language Models
 ### Alignment Before Projection
 **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**\
 _Bin Lin, Yang Ye, Bin Zhu, Jiaxi Cui, Munan Ning, Peng Jin, Li Yuan_\
