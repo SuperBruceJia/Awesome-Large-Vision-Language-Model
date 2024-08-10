@@ -26,7 +26,15 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 # Benchmarks
 
 # Papers
+## Multimodal Large Language Models (MM-LLMs)
+### Conceptual Representation Projection
 **NExT-GPT: Any-to-Any Multimodal LLM**\
 *Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua*\
 ICML 2024, [[Paper](https://arxiv.org/abs/2309.05519)] [[Codes and Dataset](https://github.com/NExT-GPT/NExT-GPT)] [[Webpage](https://next-gpt.github.io/)] \
 25 Jun 2024
+
+### Linear Layer Projection
+**Generating Images with Multimodal Language Models**\
+*Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*\
+NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)] \
+13 Oct 2023
