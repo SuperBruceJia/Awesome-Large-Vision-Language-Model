@@ -51,12 +51,12 @@ ICML 2024, [[Paper](https://arxiv.org/abs/2309.05519)] [[Codes and Dataset](http
 25 Jun 2024
 
 ### Linear Layer Projection
-**Improved Baselines with Visual Instruction Tuning**\
+**LLaVA-1.5: Improved Baselines with Visual Instruction Tuning**\
 _Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee_\
 CVPR 2024, [[Paper](https://arxiv.org/abs/2310.03744)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
 15 May 2024
 
-**Visual Instruction Tuning**\
+**LLaVA: Visual Instruction Tuning**\
 _Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee_\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2304.08485)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
 11 Dec 2023
