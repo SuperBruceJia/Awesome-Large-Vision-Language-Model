@@ -120,3 +120,9 @@ ICML 2022, [[Paper](https://arxiv.org/abs/2204.14198)] [[Codes and Dataset](http
 _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_\
 ICML'21, [[Paper](https://arxiv.org/abs/2103.00020)] [[Codes](https://github.com/OpenAI/CLIP)] [[Webpage](https://openai.com/index/clip/)]\
 26 Feb 2021
+
+## Universal Embedding Space
+**ImageBind: One Embedding Space To Bind Them All**\
+_Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra_\
+CVPR 2023, [[Paper](https://arxiv.org/abs/2305.05665)] [[Codes](https://github.com/facebookresearch/ImageBind)] [[Webpage](https://imagebind.metademolab.com/)]\
+31 May 2023
