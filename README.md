@@ -123,6 +123,11 @@ ICML'21, [[Paper](https://arxiv.org/abs/2103.00020)] [[Codes](https://github.com
 26 Feb 2021
 
 ## Universal Embedding Space
+**Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**\
+_Ziyu Guo, Renrui Zhang, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng_\
+arXiv, [[Paper](https://arxiv.org/abs/2309.00615)] [[Codes](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)]\
+1 Sep 2023
+
 **ImageBind: One Embedding Space To Bind Them All**\
 _Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra_\
 CVPR 2023, [[Paper](https://arxiv.org/abs/2305.05665)] [[Codes](https://github.com/facebookresearch/ImageBind)] [[Webpage](https://imagebind.metademolab.com/)]\
