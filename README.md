@@ -27,7 +27,7 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 
 # Papers
 ## Multimodal Large Language Models (MM-LLMs)
-### Alignment Before Fusion
+### Alignment Before Projection
 **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**\
 _Bin Lin, Yang Ye, Bin Zhu, Jiaxi Cui, Munan Ning, Peng Jin, Li Yuan_\
 arXiv, [[Paper](https://arxiv.org/abs/2311.10122)] [[Codes](https://github.com/PKU-YuanGroup/Video-LLaVA)]\
