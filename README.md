@@ -54,3 +54,9 @@ ICML 2024, [[Paper](https://arxiv.org/abs/2309.05519)] [[Codes and Dataset](http
 *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)]\
 13 Oct 2023
+
+## Contrastive Language-Image Pre-Training
+**Learning Transferable Visual Models From Natural Language Supervision**\
+_Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_\
+ICML'21, [[Paper](https://arxiv.org/abs/2103.00020)] [[Codes](https://github.com/OpenAI/CLIP)] [[Webpage](https://openai.com/index/clip/)]\
+26 Feb 2021
