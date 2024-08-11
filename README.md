@@ -41,7 +41,7 @@ Princeton University, [[Presentations](https://www.cs.princeton.edu/courses/arch
 21 November 2022
 
 # Books
-**Foundation Models for Natural Language Processing - Pre-trained Language Models Integrating Media**\
+**Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media**\
 *Gerhard Paaß, Sven Giesselbach*\
 Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)]\
 16 Feb 2023
