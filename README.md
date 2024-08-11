@@ -36,6 +36,11 @@ _Chunyuan Li_\
 Deep Learning Team, Microsoft Research, Redmond, [[Presentations](https://chunyuan.li/doc/talk_cvinw_instruction_june2.pdf)]\
 01 May 2023
 
+**Flamingo: 🦩 a Visual Language Model for Few-Shot Learning**\
+_Andrea Wynn, Xindi Wu_\
+Princeton University, [[Presentations](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec20.pdf)]\
+21 November 2022
+
 # Books
 **Foundation Models for Natural Language Processing - Pre-trained Language Models Integrating Media**\
 *Gerhard Paaß, Sven Giesselbach*\
