@@ -14,6 +14,7 @@ This repository, called **Large Vision-Language Model**, contains a collection o
 - [Books](#Books)
 - [Benchmarks](#Benchmarks)
 - [Papers](#Papers)
+  - [Survey](#Survey)
   - [Multimodal Large Language Models (MM-LLMs)](#Multimodal-Large-Language-Models)
     - [Alignment Before Projection](#Alignment-Before-Projection)
     - [Linear Layer Projection](#Linear-Layer-Projection)
@@ -44,6 +45,12 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 # Benchmarks
 
 # Papers
+## Survey
+**MM-LLMs: Recent Advances in MultiModal Large Language Models**\
+_Duzhen Zhang, Yahan Yu, Jiahua Dong, Chenxing Li, Dan Su, Chenhui Chu, Dong Yu_\
+ACL 2024, [[Paper](https://arxiv.org/abs/2401.13601)] [[Webpage](https://mm-llms.github.io/archives/)]\
+28 May 2024
+
 ## Multimodal Large Language Models
 ### Alignment Before Projection
 **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**\
