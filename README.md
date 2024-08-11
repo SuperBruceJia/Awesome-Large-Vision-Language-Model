@@ -12,7 +12,6 @@ This repository, called **Large Vision-Language Model**, contains a collection o
 ## Contents
 - [Presentations](#Presentations)
 - [Books](#Books)
-- [Benchmarks](#Benchmarks)
 - [Papers](#Papers)
   - [Survey](#Survey)
   - [Multimodal Large Language Models (MM-LLMs)](#Multimodal-Large-Language-Models)
@@ -46,8 +45,6 @@ Princeton University, [[Presentations](https://www.cs.princeton.edu/courses/arch
 *Gerhard Paaß, Sven Giesselbach*\
 Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)]\
 16 Feb 2023
-
-# Benchmarks
 
 # Papers
 ## Survey
