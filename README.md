@@ -124,7 +124,7 @@ ICLR 2024, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.c
 
 ## Contrastive Language-Image Pre-Training
 ### Intermediate Networks
-**BLIP-2 & Q-Former: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**\
+**BLIP-2 & Query-Transformer (Q-Former): Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**\
 _Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi_\
 ICML 2023, [[Paper](https://arxiv.org/abs/2301.12597)] [[Codes](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]\
 15 Jun 2023
