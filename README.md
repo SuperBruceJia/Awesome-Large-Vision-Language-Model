@@ -129,6 +129,11 @@ ICLR 2024, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.c
 
 ## Contrastive Language-Image Pre-Training
 ### Intermediate Networks
+**Lyrics & Multi-scale Querying Transformer (MQ-Former): Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects**\
+_Junyu Lu, Dixiang Zhang, Songxin Zhang, Zejian Xie, Zhuoyang Song, Cong Lin, Jiaxing Zhang, Bingyi Jing, Pingjian Zhang_\
+arXiv, [[Paper](https://arxiv.org/abs/2312.05278)]\
+12 Apr 2024
+
 **BLIP-2 & Query-Transformer (Q-Former): Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**\
 _Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi_\
 ICML 2023, [[Paper](https://arxiv.org/abs/2301.12597)] [[Codes](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]\
