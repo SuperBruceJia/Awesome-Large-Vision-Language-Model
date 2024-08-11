@@ -117,6 +117,11 @@ arXiv, [[Paper](https://arxiv.org/abs/2305.13292)] [[Codes](https://github.com/c
 23 May 2023
 
 ### Prompt Tuning
+**Prompt-Transformer (P-Former): Bootstrapping Vision-Language Learning with Decoupled Language Pre-training**\
+_Yiren Jian, Chongyang Gao, Soroush Vosoughi_\
+NeurIPS 2023, [[Paper](https://arxiv.org/abs/2307.07063)] [[Codes](https://github.com/yiren-jian/BLIText)]\
+19 Dec 2023
+
 **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**\
 _Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao_\
 ICLR 2024, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
