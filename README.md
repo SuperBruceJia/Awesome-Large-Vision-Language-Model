@@ -36,7 +36,7 @@ _Chunyuan Li_\
 Deep Learning Team, Microsoft Research, Redmond, [[Presentations](https://chunyuan.li/doc/talk_cvinw_instruction_june2.pdf)]\
 01 May 2023
 
-**Flamingo: 🦩 a Visual Language Model for Few-Shot Learning**\
+**Flamingo 🦩: A Visual Language Model for Few-Shot Learning**\
 _Andrea Wynn, Xindi Wu_\
 Princeton University, [[Presentations](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec20.pdf)]\
 21 November 2022
@@ -129,7 +129,7 @@ _Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi_\
 ICML 2023, [[Paper](https://arxiv.org/abs/2301.12597)] [[Codes](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]\
 15 Jun 2023
 
-**Flamingo: a Visual Language Model for Few-Shot Learning**\
+**Flamingo 🦩 & Cross-attention (Perceiver Resampler): a Visual Language Model for Few-Shot Learning**\
 _Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan_\
 NeurIPS 2022, [[Paper](https://arxiv.org/abs/2301.12597)] [[Codes](https://github.com/lucidrains/flamingo-pytorch)] [[Video](https://www.youtube.com/watch?v=smUHQndcmOY)] \
 15 Nov 2022
