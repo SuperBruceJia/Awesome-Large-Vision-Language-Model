@@ -49,6 +49,7 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 **MM-LLMs: Recent Advances in MultiModal Large Language Models**\
 _Duzhen Zhang, Yahan Yu, Jiahua Dong, Chenxing Li, Dan Su, Chenhui Chu, Dong Yu_\
 ACL 2024, [[Paper](https://arxiv.org/abs/2401.13601)] [[Webpage](https://mm-llms.github.io/archives/)]\
+Note: Categorize MM-LLMs by Modality Encoder, Input Projector, LLM Backbone, Output Projector, and Modality Generator\
 28 May 2024
 
 ## Multimodal Large Language Models
