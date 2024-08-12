@@ -100,6 +100,11 @@ _Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, Yiyang Zhou, Junyang Wan
 arXiv, [[Paper](https://arxiv.org/abs/2304.14178)] [[Codes](https://github.com/X-PLUG/mPLUG-Owl)] [[Webpage](https://www.modelscope.cn/studios/iic/mPLUG-Owl)]\
 29 Mar 2024
 
+**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**\
+_Hang Zhang, Xin Li, Lidong Bing_\
+EMNLP 2023, [[Paper](https://arxiv.org/abs/2306.02858)] [[Codes](https://github.com/DAMO-NLP-SG/Video-LLaMA)] [[Video](https://www.youtube.com/watch?v=RDNYs3Rswhc)]\
+25 Oct 2023
+
 **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**\
 _Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny_\
 arXiv, [[Paper](https://arxiv.org/abs/2304.10592)] [[Codes](https://github.com/Vision-CAIR/MiniGPT-4)] [[Dataset](https://huggingface.co/datasets/Vision-CAIR/cc_sbu_align)] [[Webpage](https://minigpt-4.github.io/)]\
@@ -135,11 +140,6 @@ CVPR 2024, [[Paper](https://arxiv.org/abs/2310.03744)] [[Codes](https://github.c
 _Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee_\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2304.08485)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
 11 Dec 2023
-
-**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**\
-_Hang Zhang, Xin Li, Lidong Bing_\
-EMNLP 2023, [[Paper](https://arxiv.org/abs/2306.02858)] [[Codes](https://github.com/DAMO-NLP-SG/Video-LLaMA)] [[Video](https://www.youtube.com/watch?v=RDNYs3Rswhc)]\
-25 Oct 2023
 
 **GILL: Generating Images with Multimodal Language Models**\
 *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*\
