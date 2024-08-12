@@ -134,6 +134,11 @@ arXiv, [[Paper](https://arxiv.org/abs/2304.10592)] [[Codes](https://github.com/V
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)]\
 13 Oct 2023
 
+**MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**\
+_Jun Chen, Deyao Zhu, Xiaoqian Shen, Xiang Li, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny_\
+arXiv, [[Paper](https://arxiv.org/abs/2310.09478)] [[Codes](https://github.com/Vision-CAIR/MiniGPT-4)] [[Webpage](https://minigpt-v2.github.io/)]\
+7 Nov 2023
+
 **PandaGPT: One Model To Instruction-Follow Them All**\
 _Yixuan Su, Tian Lan, Huayang Li, Jialu Xu, Yan Wang, Deng Cai_\
 TLLM 2023, [[Paper](https://arxiv.org/abs/2305.16355)] [[Codes](https://github.com/yxuansu/PandaGPT)] [[Webpage](https://panda-gpt.github.io/)]\
