@@ -54,17 +54,17 @@ NeurIPS 2021, [[Paper](https://arxiv.org/abs/2110.13214)] [[Webpage](https://ico
 Note: abstract diagram comprehension and holistic cognitive reasoning in real-world diagram-based word problems, requiring both perceptual acumen and versatile cognitive reasoning\
 25 Jul 2022
 
-**GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering**\
-_Drew A. Hudson, Christopher D. Manning_\
-CVPR 2019, [[Paper](https://arxiv.org/abs/1902.09506)] [[Webpage](https://cs.stanford.edu/people/dorarad/gqa/)]\
-Note: image scene graphs reasoning, offering impartial compositional questions derived from real-world images.\
-10 May 2019
-
 **OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge**\
 _Kenneth Marino, Mohammad Rastegari, Ali Farhadi, Roozbeh Mottaghi_\
 CVPR 2019, [[Paper](https://arxiv.org/abs/1906.00067)] [[Webpage](https://okvqa.allenai.org/)]\
 Note: questions requiring reasoning with a variety of knowledge types such as commonsense, world knowledge, and visual knowledge\
 4 Sep 2019
+
+**GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering**\
+_Drew A. Hudson, Christopher D. Manning_\
+CVPR 2019, [[Paper](https://arxiv.org/abs/1902.09506)] [[Webpage](https://cs.stanford.edu/people/dorarad/gqa/)]\
+Note: image scene graphs reasoning, offering impartial compositional questions derived from real-world images.\
+10 May 2019
 
 **VQA v2 & Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering**\
 _Yash Goyal, Tejas Khot, Douglas Summers-Stay, Dhruv Batra, Devi Parikh_\
