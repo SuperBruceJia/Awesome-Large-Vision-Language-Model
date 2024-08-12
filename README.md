@@ -115,6 +115,11 @@ _Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zha
 arXiv, [[Paper](https://arxiv.org/abs/2309.03905)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
 11 Sep 2023
 
+**InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**\
+_Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung, Steven Hoi_\
+arXiv, [[Paper](https://arxiv.org/abs/2305.06500)] [[Codes](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)]\
+15 Jun 2023
+
 **X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**\
 _Feilong Chen, Minglun Han, Haozhi Zhao, Qingyang Zhang, Jing Shi, Shuang Xu, Bo Xu_\
 arXiv, [[Paper](https://arxiv.org/abs/2305.04160)] [[Codes](https://github.com/phellonchen/X-LLM)] [[Webpage](https://x-llm.github.io/)]\
