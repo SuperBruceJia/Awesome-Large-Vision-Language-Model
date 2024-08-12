@@ -12,6 +12,7 @@ This repository, called **Large Vision-Language Model**, contains a collection o
 ## Contents
 - [Presentations](#Presentations)
 - [Books](#Books)
+- [Benchmarks](#Benchmarks)
 - [Papers](#Papers)
   - [Survey](#Survey)
   - [Multimodal Large Language Models (MM-LLMs)](#Multimodal-Large-Language-Models)
