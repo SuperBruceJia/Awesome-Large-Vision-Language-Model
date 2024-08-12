@@ -141,6 +141,11 @@ _Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chuny
 arXiv, [[Paper](https://arxiv.org/abs/2407.07895)] [[Codes](https://github.com/LLaVA-VL/LLaVA-NeXT)] [[Webpage](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)]\
 28 Jul 2024
 
+**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**\
+_Liang Zhao, En Yu, Zheng Ge, Jinrong Yang, Haoran Wei, Hongyu Zhou, Jianjian Sun, Yuang Peng, Runpei Dong, Chunrui Han, Xiangyu Zhang_\
+arXiv, [[Paper](https://arxiv.org/abs/2307.09474)]\
+18 Jul 2023
+
 **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**\
 _Keqin Chen, Zhao Zhang, Weili Zeng, Richong Zhang, Feng Zhu, Rui Zhao_\
 arXiv, [[Paper](https://arxiv.org/abs/2306.15195)] [[Codes](https://github.com/shikras/shikra)]\
