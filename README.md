@@ -115,6 +115,11 @@ _Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zha
 arXiv, [[Paper](https://arxiv.org/abs/2309.03905)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
 11 Sep 2023
 
+**BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**\
+_Yang Zhao, Zhijie Lin, Daquan Zhou, Zilong Huang, Jiashi Feng, Bingyi Kang_\
+arXiv, [[Paper](https://arxiv.org/abs/2307.08581)] [[Codes](https://github.com/magic-research/bubogpt)] [[Webpage](https://bubo-gpt.github.io/)]\
+17 Jul 2023
+
 **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**\
 _Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung, Steven Hoi_\
 arXiv, [[Paper](https://arxiv.org/abs/2305.06500)] [[Codes](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)]\
