@@ -17,7 +17,7 @@ This repository, called **Large Vision-Language Model**, contains a collection o
   - [Survey](#Survey)
   - [Multimodal Large Language Models (MM-LLMs)](#Multimodal-Large-Language-Models)
     - [Alignment Before Projection](#Alignment-Before-Projection)
-    - [Linear Layer Projection](#Linear-Layer-Projection)
+    - [Linear Layers Projection](#Linear-Layers-Projection)
     - [Intermediate Networks](##Intermediate-Networks)
     - [Prompt Tuning](#Prompt-Tuning)
   - [Contrastive Language-Image Pre-Training](#Contrastive-Language-Image-Pre-Training)
@@ -115,7 +115,7 @@ _Feilong Chen, Minglun Han, Haozhi Zhao, Qingyang Zhang, Jing Shi, Shuang Xu, Bo
 arXiv, [[Paper](https://arxiv.org/abs/2305.04160)] [[Codes](https://github.com/phellonchen/X-LLM)] [[Webpage](https://x-llm.github.io/)]\
 22 May 2023
 
-### Linear Layer Projection
+### Linear Layers Projection
 **LLaVA-OneVision: Easy Visual Task Transfer**\
 _Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li_\
 arXiv, [[Paper](https://arxiv.org/abs/2408.03326)] [[Codes](https://github.com/LLaVA-VL/LLaVA-NeXT)] [[Webpage](https://next-gpt.github.io/)]\
