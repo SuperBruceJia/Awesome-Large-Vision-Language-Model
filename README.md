@@ -47,6 +47,13 @@ Princeton University, [[Presentations](https://www.cs.princeton.edu/courses/arch
 Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)]\
 16 Feb 2023
 
+# Benchmarks
+**OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge**\
+_Kenneth Marino, Mohammad Rastegari, Ali Farhadi, Roozbeh Mottaghi_\
+CVPR 2019, [[Paper](https://arxiv.org/abs/1906.00067)] [[Webpage](https://okvqa.allenai.org/)]\
+Note: questions requiring reasoning with a variety of knowledge types such as commonsense, world knowledge, and visual knowledge\
+4 Sep 2019
+
 # Papers
 ## Survey
 **MM-LLMs: Recent Advances in MultiModal Large Language Models**\
