@@ -146,21 +146,6 @@ _Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chuny
 arXiv, [[Paper](https://arxiv.org/abs/2407.07895)] [[Codes](https://github.com/LLaVA-VL/LLaVA-NeXT)] [[Webpage](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)]\
 28 Jul 2024
 
-**Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**\
-_Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou_\
-arXiv, [[Paper](https://arxiv.org/abs/2308.12966)] [[Codes](https://github.com/QwenLM/Qwen-VL)] [[Webpage](https://qianwen.aliyun.com/)]\
-13 Oct 2023
-
-**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**\
-_Liang Zhao, En Yu, Zheng Ge, Jinrong Yang, Haoran Wei, Hongyu Zhou, Jianjian Sun, Yuang Peng, Runpei Dong, Chunrui Han, Xiangyu Zhang_\
-arXiv, [[Paper](https://arxiv.org/abs/2307.09474)]\
-18 Jul 2023
-
-**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**\
-_Keqin Chen, Zhao Zhang, Weili Zeng, Richong Zhang, Feng Zhu, Rui Zhao_\
-arXiv, [[Paper](https://arxiv.org/abs/2306.15195)] [[Codes](https://github.com/shikras/shikra)]\
-3 Jul 2023
-
 **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**\
 _Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan_\
 ACL 2024, [[Paper](https://arxiv.org/abs/2306.05424)] [[Codes](https://github.com/mbzuai-oryx/Video-ChatGPT)] [[Webpage](https://mbzuai-oryx.github.io/Video-ChatGPT/)]\
@@ -185,6 +170,21 @@ NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://githu
 _Jun Chen, Deyao Zhu, Xiaoqian Shen, Xiang Li, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny_\
 arXiv, [[Paper](https://arxiv.org/abs/2310.09478)] [[Codes](https://github.com/Vision-CAIR/MiniGPT-4)] [[Webpage](https://minigpt-v2.github.io/)]\
 7 Nov 2023
+
+**Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**\
+_Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou_\
+arXiv, [[Paper](https://arxiv.org/abs/2308.12966)] [[Codes](https://github.com/QwenLM/Qwen-VL)] [[Webpage](https://qianwen.aliyun.com/)]\
+13 Oct 2023
+
+**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**\
+_Liang Zhao, En Yu, Zheng Ge, Jinrong Yang, Haoran Wei, Hongyu Zhou, Jianjian Sun, Yuang Peng, Runpei Dong, Chunrui Han, Xiangyu Zhang_\
+arXiv, [[Paper](https://arxiv.org/abs/2307.09474)]\
+18 Jul 2023
+
+**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**\
+_Keqin Chen, Zhao Zhang, Weili Zeng, Richong Zhang, Feng Zhu, Rui Zhao_\
+arXiv, [[Paper](https://arxiv.org/abs/2306.15195)] [[Codes](https://github.com/shikras/shikra)]\
+3 Jul 2023
 
 **PaLI-X: On Scaling up a Multilingual Vision and Language Model**\
 _Xi Chen, Josip Djolonga, Piotr Padlewski, Basil Mustafa, Soravit Changpinyo, Jialin Wu, Carlos Riquelme Ruiz, Sebastian Goodman, Xiao Wang, Yi Tay, Siamak Shakeri, Mostafa Dehghani, Daniel Salz, Mario Lucic, Michael Tschannen, Arsha Nagrani, Hexiang Hu, Mandar Joshi, Bo Pang, Ceslee Montgomery, Paulina Pietrzyk, Marvin Ritter, AJ Piergiovanni, Matthias Minderer, Filip Pavetic, Austin Waters, Gang Li, Ibrahim Alabdulmohsin, Lucas Beyer, Julien Amelot, Kenton Lee, Andreas Peter Steiner, Yang Li, Daniel Keysers, Anurag Arnab, Yuanzhong Xu, Keran Rong, Alexander Kolesnikov, Mojtaba Seyedhosseini, Anelia Angelova, Xiaohua Zhai, Neil Houlsby, Radu Soricut_\
