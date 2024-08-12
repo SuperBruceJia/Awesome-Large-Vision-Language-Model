@@ -182,7 +182,7 @@ arXiv, [[Paper](https://arxiv.org/abs/2305.13292)] [[Codes](https://github.com/c
 23 May 2023
 
 ### Prompt Tuning
-**Prompt-Transformer (P-Former): Bootstrapping Vision-Language Learning with Decoupled Language Pre-training**\
+**Prompt-Transformer (P-Former) & DLP: Bootstrapping Vision-Language Learning with Decoupled Language Pre-training**\
 _Yiren Jian, Chongyang Gao, Soroush Vosoughi_\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2307.07063)] [[Codes](https://github.com/yiren-jian/BLIText)]\
 19 Dec 2023
