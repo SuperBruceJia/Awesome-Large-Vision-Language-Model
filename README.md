@@ -48,6 +48,12 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 16 Feb 2023
 
 # Benchmarks
+**IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning**\
+_Pan Lu, Liang Qiu, Jiaqi Chen, Tony Xia, Yizhou Zhao, Wei Zhang, Zhou Yu, Xiaodan Liang, Song-Chun Zhu_\
+NeurIPS 2021, [[Paper](https://arxiv.org/abs/2110.13214)] [[Webpage](https://iconqa.github.io/)]\
+Note: abstract diagram comprehension and holistic cognitive reasoning in real-world diagram-based word problems, requiring both perceptual acumen and versatile cognitive reasoning\
+25 Jul 2022
+
 **OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge**\
 _Kenneth Marino, Mohammad Rastegari, Ali Farhadi, Roozbeh Mottaghi_\
 CVPR 2019, [[Paper](https://arxiv.org/abs/1906.00067)] [[Webpage](https://okvqa.allenai.org/)]\
