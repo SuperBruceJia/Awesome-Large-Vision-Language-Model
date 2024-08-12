@@ -254,7 +254,7 @@ ICML 2022, [[Paper](https://arxiv.org/abs/2204.14198)] [[Codes and Dataset](http
 ### Simple Contrastive Learning Paradigms
 **CLIP: Learning Transferable Visual Models From Natural Language Supervision**\
 _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_\
-ICML'21, [[Paper](https://arxiv.org/abs/2103.00020)] [[Codes](https://github.com/OpenAI/CLIP)] [[Webpage](https://openai.com/index/clip/)]\
+ICML 2021, [[Paper](https://arxiv.org/abs/2103.00020)] [[Codes](https://github.com/OpenAI/CLIP)] [[Webpage](https://openai.com/index/clip/)]\
 26 Feb 2021
 
 ## Universal Embedding Space
