@@ -124,6 +124,11 @@ _Hang Zhang, Xin Li, Lidong Bing_\
 EMNLP 2023, [[Paper](https://arxiv.org/abs/2306.02858)] [[Codes](https://github.com/DAMO-NLP-SG/Video-LLaMA)] [[Video](https://www.youtube.com/watch?v=RDNYs3Rswhc)]\
 25 Oct 2023
 
+**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**\
+_Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny_\
+arXiv, [[Paper](https://arxiv.org/abs/2304.10592)] [[Codes](https://github.com/Vision-CAIR/MiniGPT-4)] [[Dataset](https://huggingface.co/datasets/Vision-CAIR/cc_sbu_align)] [[Webpage](https://minigpt-4.github.io/)]\
+25 Oct 2023
+
 **GILL: Generating Images with Multimodal Language Models**\
 *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)]\
