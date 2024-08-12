@@ -156,6 +156,11 @@ _Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee_\
 CVPR 2024, [[Paper](https://arxiv.org/abs/2310.03744)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
 15 May 2024
 
+**CogVLM: Visual Expert for Pretrained Language Models**\
+_Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, Lei Zhao, Xixuan Song, Jiazheng Xu, Bin Xu, Juanzi Li, Yuxiao Dong, Ming Ding, Jie Tang_\
+arXiv, [[Paper](https://arxiv.org/abs/2311.03079)] [[Codes](https://github.com/THUDM/CogVLM)]\
+4 Feb 2024
+
 **LLaVA: Visual Instruction Tuning**\
 _Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee_\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2304.08485)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
