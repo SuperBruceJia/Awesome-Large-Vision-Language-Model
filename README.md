@@ -88,6 +88,8 @@ arXiv, [[Paper](https://arxiv.org/abs/2311.10122)] [[Codes](https://github.com/P
 21 Nov 2023
 
 ### Intermediate Networks
+Note: including _Q-Former + linear layer(s) projection_
+
 **NExT-GPT: Any-to-Any Multimodal LLM**\
 *Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua*\
 ICML 2024, [[Paper](https://arxiv.org/abs/2309.05519)] [[Codes and Dataset](https://github.com/NExT-GPT/NExT-GPT)] [[Webpage](https://next-gpt.github.io/)]\
@@ -98,14 +100,22 @@ _Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, Yiyang Zhou, Junyang Wan
 arXiv, [[Paper](https://arxiv.org/abs/2304.14178)] [[Codes](https://github.com/X-PLUG/mPLUG-Owl)] [[Webpage](https://www.modelscope.cn/studios/iic/mPLUG-Owl)]\
 29 Mar 2024
 
+**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**\
+_Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny_\
+arXiv, [[Paper](https://arxiv.org/abs/2304.10592)] [[Codes](https://github.com/Vision-CAIR/MiniGPT-4)] [[Dataset](https://huggingface.co/datasets/Vision-CAIR/cc_sbu_align)] [[Webpage](https://minigpt-4.github.io/)]\
+25 Oct 2023
+
 **ImageBind-LLM: Multi-modality Instruction Tuning**\
 _Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao_\
 arXiv, [[Paper](https://arxiv.org/abs/2309.03905)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
 11 Sep 2023
 
-### Linear Layer Projection
-Note: _simple linear layer projection_ or _Q-Former + linear layer(s) projection_
+**X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**\
+_Feilong Chen, Minglun Han, Haozhi Zhao, Qingyang Zhang, Jing Shi, Shuang Xu, Bo Xu_\
+arXiv, [[Paper](https://arxiv.org/abs/2305.04160)] [[Codes](https://github.com/phellonchen/X-LLM)] [[Webpage](https://x-llm.github.io/)]\
+22 May 2023
 
+### Linear Layer Projection
 **LLaVA-OneVision: Easy Visual Task Transfer**\
 _Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li_\
 arXiv, [[Paper](https://arxiv.org/abs/2408.03326)] [[Codes](https://github.com/LLaVA-VL/LLaVA-NeXT)] [[Webpage](https://next-gpt.github.io/)]\
@@ -131,11 +141,6 @@ _Hang Zhang, Xin Li, Lidong Bing_\
 EMNLP 2023, [[Paper](https://arxiv.org/abs/2306.02858)] [[Codes](https://github.com/DAMO-NLP-SG/Video-LLaMA)] [[Video](https://www.youtube.com/watch?v=RDNYs3Rswhc)]\
 25 Oct 2023
 
-**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**\
-_Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny_\
-arXiv, [[Paper](https://arxiv.org/abs/2304.10592)] [[Codes](https://github.com/Vision-CAIR/MiniGPT-4)] [[Dataset](https://huggingface.co/datasets/Vision-CAIR/cc_sbu_align)] [[Webpage](https://minigpt-4.github.io/)]\
-25 Oct 2023
-
 **GILL: Generating Images with Multimodal Language Models**\
 *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2305.17216)] [[Codes](https://github.com/kohjingyu/gill)] [[Webpage](https://jykoh.com/gill)]\
@@ -150,11 +155,6 @@ arXiv, [[Paper](https://arxiv.org/abs/2310.09478)] [[Codes](https://github.com/V
 _Yixuan Su, Tian Lan, Huayang Li, Jialu Xu, Yan Wang, Deng Cai_\
 TLLM 2023, [[Paper](https://arxiv.org/abs/2305.16355)] [[Codes](https://github.com/yxuansu/PandaGPT)] [[Webpage](https://panda-gpt.github.io/)]\
 25 May 2023
-
-**X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**\
-_Feilong Chen, Minglun Han, Haozhi Zhao, Qingyang Zhang, Jing Shi, Shuang Xu, Bo Xu_\
-arXiv, [[Paper](https://arxiv.org/abs/2305.04160)] [[Codes](https://github.com/phellonchen/X-LLM)] [[Webpage](https://x-llm.github.io/)]\
-22 May 2023
 
 **VideoLLM: Modeling Video Sequence with Large Language Models**\
 _Guo Chen, Yin-Dong Zheng, Jiahao Wang, Jilan Xu, Yifei Huang, Junting Pan, Yi Wang, Yali Wang, Yu Qiao, Tong Lu, Limin Wang_\
