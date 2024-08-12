@@ -136,6 +136,11 @@ _Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chuny
 arXiv, [[Paper](https://arxiv.org/abs/2407.07895)] [[Codes](https://github.com/LLaVA-VL/LLaVA-NeXT)] [[Webpage](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)]\
 28 Jul 2024
 
+**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**\
+_Keqin Chen, Zhao Zhang, Weili Zeng, Richong Zhang, Feng Zhu, Rui Zhao_\
+arXiv, [[Paper](https://arxiv.org/abs/2306.15195)] [[Codes](https://github.com/shikras/shikra)]\
+3 Jul 2023
+
 **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**\
 _Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan_\
 ACL 2024, [[Paper](https://arxiv.org/abs/2306.05424)] [[Codes](https://github.com/mbzuai-oryx/Video-ChatGPT)] [[Webpage](https://mbzuai-oryx.github.io/Video-ChatGPT/)]\
