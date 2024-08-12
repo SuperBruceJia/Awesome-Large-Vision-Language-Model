@@ -34,7 +34,7 @@ CVPR 2023 Tutorial, [[Paper](https://arxiv.org/abs/2309.10020)] [[Webpage](https
 **A Vision-and-Language Approach to Computer Vision in the Wild: Building a General-Purpose Assistant in the Visual World Towards Building and Surpassing Multimodal GPT-4**\
 _Chunyuan Li_\
 Deep Learning Team, Microsoft Research, Redmond, [[Presentations](https://chunyuan.li/doc/talk_cvinw_instruction_june2.pdf)]\
-01 May 2023
+1 May 2023
 
 **Flamingo 🦩: A Visual Language Model for Few-Shot Learning**\
 _Andrea Wynn, Xindi Wu_\
