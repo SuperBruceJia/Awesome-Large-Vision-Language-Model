@@ -276,3 +276,5 @@ CVPR 2024, [[Paper](https://arxiv.org/abs/2312.07533)] [[Codes](https://github.c
 
 # Acknowledgement
 This project is sponsored by the [MedPodGPT](https://medpodgpt.org/) group at Boston University.
+
+<a href="https://medpodgpt.org/"> <img width="500" src="https://github.com/user-attachments/assets/b745e4c0-7354-4cc0-9773-d77ffe4554bf"></a>
