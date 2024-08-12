@@ -60,6 +60,12 @@ CVPR 2019, [[Paper](https://arxiv.org/abs/1906.00067)] [[Webpage](https://okvqa.
 Note: questions requiring reasoning with a variety of knowledge types such as commonsense, world knowledge, and visual knowledge\
 4 Sep 2019
 
+**VQA v2 & Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering**\
+_Yash Goyal, Tejas Khot, Douglas Summers-Stay, Dhruv Batra, Devi Parikh_\
+CVPR 2017, [[Paper](https://arxiv.org/abs/1612.00837)] [[Webpage](https://visualqa.org/)]\
+Note: every question is associated with a pair of similar images that result in two different answers to the question.\
+15 May 2017
+
 # Papers
 ## Survey
 **MM-LLMs: Recent Advances in MultiModal Large Language Models**\
