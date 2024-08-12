@@ -141,6 +141,11 @@ _Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chuny
 arXiv, [[Paper](https://arxiv.org/abs/2407.07895)] [[Codes](https://github.com/LLaVA-VL/LLaVA-NeXT)] [[Webpage](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)]\
 28 Jul 2024
 
+**Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**\
+_Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou_\
+arXiv, [[Paper](https://arxiv.org/abs/2308.12966)] [[Codes](https://github.com/QwenLM/Qwen-VL)] [[Webpage](https://qianwen.aliyun.com/)]\
+13 Oct 2023
+
 **ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**\
 _Liang Zhao, En Yu, Zheng Ge, Jinrong Yang, Haoran Wei, Hongyu Zhou, Jianjian Sun, Yuang Peng, Runpei Dong, Chunrui Han, Xiangyu Zhang_\
 arXiv, [[Paper](https://arxiv.org/abs/2307.09474)]\
