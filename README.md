@@ -93,6 +93,11 @@ arXiv, [[Paper](https://arxiv.org/abs/2311.10122)] [[Codes](https://github.com/P
 ICML 2024, [[Paper](https://arxiv.org/abs/2309.05519)] [[Codes and Dataset](https://github.com/NExT-GPT/NExT-GPT)] [[Webpage](https://next-gpt.github.io/)]\
 25 Jun 2024
 
+**mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**\
+_Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, Yiyang Zhou, Junyang Wang, Anwen Hu, Pengcheng Shi, Yaya Shi, Chenliang Li, Yuanhong Xu, Hehong Chen, Junfeng Tian, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou_\
+arXiv, [[Paper](https://arxiv.org/abs/2304.14178)] [[Codes](https://github.com/X-PLUG/mPLUG-Owl)] [[Webpage](https://www.modelscope.cn/studios/iic/mPLUG-Owl)]\
+29 Mar 2024
+
 **ImageBind-LLM: Multi-modality Instruction Tuning**\
 _Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao_\
 arXiv, [[Paper](https://arxiv.org/abs/2309.03905)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
