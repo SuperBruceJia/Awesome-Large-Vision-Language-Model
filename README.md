@@ -100,6 +100,11 @@ _Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, Yiyang Zhou, Junyang Wan
 arXiv, [[Paper](https://arxiv.org/abs/2304.14178)] [[Codes](https://github.com/X-PLUG/mPLUG-Owl)] [[Webpage](https://www.modelscope.cn/studios/iic/mPLUG-Owl)]\
 29 Mar 2024
 
+**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**\
+_Kaizhi Zheng, Xuehai He, Xin Eric Wang_\
+arXiv, [[Paper](https://arxiv.org/abs/2310.02239)] [[Codes](https://github.com/eric-ai-lab/MiniGPT-5)] [[Webpage](https://eric-ai-lab.github.io/minigpt-5.github.io/)]\
+29 Mar 2024
+
 **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**\
 _Hang Zhang, Xin Li, Lidong Bing_\
 EMNLP 2023, [[Paper](https://arxiv.org/abs/2306.02858)] [[Codes](https://github.com/DAMO-NLP-SG/Video-LLaMA)] [[Video](https://www.youtube.com/watch?v=RDNYs3Rswhc)]\
