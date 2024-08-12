@@ -25,6 +25,7 @@ This repository, called **Large Vision-Language Model**, contains a collection o
     - [Simple Contrastive Learning Paradigms](#Simple-Contrastive-Learning-Paradigms)
   - [Universal Embedding Space](#Universal-Embedding-Space)
   - [Training Recipes](#Training-Recipes)
+- [Acknowledgement](#Acknowledgement)
 
 # Presentations
 **Recent Advances in Vision Foundation Models**\
@@ -272,3 +273,6 @@ CVPR 2023, [[Paper](https://arxiv.org/abs/2305.05665)] [[Codes](https://github.c
 _Ji Lin, Hongxu Yin, Wei Ping, Yao Lu, Pavlo Molchanov, Andrew Tao, Huizi Mao, Jan Kautz, Mohammad Shoeybi, Song Han_\
 CVPR 2024, [[Paper](https://arxiv.org/abs/2312.07533)] [[Codes](https://github.com/NVlabs/VILA)] [[Webpage](https://vila-demo.hanlab.ai/)]\
 16 May 2024
+
+# Acknowledgement
+This project is sponsored by the [MedPodGPT](https://medpodgpt.org/) group at Boston University.
