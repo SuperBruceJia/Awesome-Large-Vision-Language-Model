@@ -265,3 +265,9 @@ arXiv, [[Paper](https://arxiv.org/abs/2309.00615)] [[Codes](https://github.com/Z
 _Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra_\
 CVPR 2023, [[Paper](https://arxiv.org/abs/2305.05665)] [[Codes](https://github.com/facebookresearch/ImageBind)] [[Webpage](https://imagebind.metademolab.com/)]\
 31 May 2023
+
+## Training Recipes
+**VILA: On Pre-training for Visual Language Models**\
+_Ji Lin, Hongxu Yin, Wei Ping, Yao Lu, Pavlo Molchanov, Andrew Tao, Huizi Mao, Jan Kautz, Mohammad Shoeybi, Song Han_\
+CVPR 2024, [[Paper](https://arxiv.org/abs/2312.07533)] [[Codes](https://github.com/NVlabs/VILA)] [[Webpage](https://vila-demo.hanlab.ai/)]\
+16 May 2024
