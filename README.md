@@ -166,6 +166,11 @@ _Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee_\
 NeurIPS 2023, [[Paper](https://arxiv.org/abs/2304.08485)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
 11 Dec 2023
 
+**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**\
+_Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal_\
+arXiv, [[Paper](https://arxiv.org/abs/2311.18775)] [[Codes](https://github.com/microsoft/i-Code/tree/main/CoDi-2)] [[Webpage](https://codi-2.github.io/)]\
+30 Nov 2023
+
 **X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**\
 _Artemis Panagopoulou, Le Xue, Ning Yu, Junnan Li, Dongxu Li, Shafiq Joty, Ran Xu, Silvio Savarese, Caiming Xiong, Juan Carlos Niebles_\
 arXiv, [[Paper](https://arxiv.org/abs/2311.18799)] [[Codes](https://github.com/artemisp/LAVIS-XInstructBLIP)] [[Webpage](https://artemisp.github.io/X-InstructBLIP-page/)]\
