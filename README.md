@@ -82,6 +82,11 @@ ACL 2024, [[Paper](https://arxiv.org/abs/2401.13601)] [[Webpage](https://mm-llms
 Note: Categorize MM-LLMs by Modality Encoder, Input Projector, LLM Backbone, Output Projector, Modality Generator, Training Pipeline, SoTA MM-LLMs, and Benchmarks & Performance\
 28 May 2024
 
+**A Survey on Multimodal Large Language Models**\
+_Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen_\
+arXiv, [[Paper](https://arxiv.org/abs/2306.13549)] [[GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]\
+1 Apr 2024
+
 ## Multimodal Large Language Models
 ### Alignment Before Projection
 **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**\
