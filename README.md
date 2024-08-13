@@ -83,6 +83,11 @@ Note: every question is associated with a pair of similar images that result in 
 
 # Papers
 ## Survey
+**The Revolution of Multimodal Large Language Models: A Survey**\
+_Davide Caffagni, Federico Cocchi, Luca Barsellotti, Nicholas Moratelli, Sara Sarto, Lorenzo Baraldi, Lorenzo Baraldi, Marcella Cornia, Rita Cucchiara_\
+ACL 2024, [[Paper](https://arxiv.org/abs/2402.12451)]\
+6 Jun 2024
+
 **MM-LLMs: Recent Advances in MultiModal Large Language Models**\
 _Duzhen Zhang, Yahan Yu, Jiahua Dong, Chenxing Li, Dan Su, Chenhui Chu, Dong Yu_\
 ACL 2024, [[Paper](https://arxiv.org/abs/2401.13601)] [[Webpage](https://mm-llms.github.io/archives/)]\
