@@ -143,6 +143,24 @@ _Feilong Chen, Minglun Han, Haozhi Zhao, Qingyang Zhang, Jing Shi, Shuang Xu, Bo
 arXiv, [[Paper](https://arxiv.org/abs/2305.04160)] [[Codes](https://github.com/phellonchen/X-LLM)] [[Webpage](https://x-llm.github.io/)]\
 22 May 2023
 
+### Feature-level Fusion
+Note: These methods can also be categorized in other perspectives. 
+
+**CogVLM: Visual Expert for Pretrained Language Models**\
+_Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, Lei Zhao, Xixuan Song, Jiazheng Xu, Bin Xu, Juanzi Li, Yuxiao Dong, Ming Ding, Jie Tang_\
+arXiv, [[Paper](https://arxiv.org/abs/2311.03079)] [[Codes](https://github.com/THUDM/CogVLM)]\
+4 Feb 2024
+
+**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**\
+_Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao_\
+ICLR 2024, [[Paper](https://arxiv.org/abs/2303.16199)] [[Codes](https://github.com/OpenGVLab/LLaMA-Adapter)]\
+14 Jun 2023
+
+**Flamingo 🦩 & Cross-attention (Perceiver Resampler): a Visual Language Model for Few-Shot Learning**\
+_Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan_\
+NeurIPS 2022, [[Paper](https://arxiv.org/abs/2301.12597)] [[Codes](https://github.com/lucidrains/flamingo-pytorch)] [[Video](https://www.youtube.com/watch?v=smUHQndcmOY)] \
+15 Nov 2022
+
 ### Linear Layers Projection
 **LLaVA-OneVision: Easy Visual Task Transfer**\
 _Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li_\
@@ -163,11 +181,6 @@ ACL 2024, [[Paper](https://arxiv.org/abs/2306.05424)] [[Codes](https://github.co
 _Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee_\
 CVPR 2024, [[Paper](https://arxiv.org/abs/2310.03744)] [[Codes](https://github.com/haotian-liu/LLaVA)] [[Webpage](https://llava-vl.github.io/)]\
 15 May 2024
-
-**CogVLM: Visual Expert for Pretrained Language Models**\
-_Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, Lei Zhao, Xixuan Song, Jiazheng Xu, Bin Xu, Juanzi Li, Yuxiao Dong, Ming Ding, Jie Tang_\
-arXiv, [[Paper](https://arxiv.org/abs/2311.03079)] [[Codes](https://github.com/THUDM/CogVLM)]\
-4 Feb 2024
 
 **LLaVA: Visual Instruction Tuning**\
 _Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee_\
