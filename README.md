@@ -18,6 +18,7 @@ This repository, called **Large Vision-Language Model**, contains a collection o
   - [Multimodal Large Language Models (MM-LLMs)](#Multimodal-Large-Language-Models)
     - [Alignment Before Projection](#Alignment-Before-Projection)
     - [Intermediate Networks](#Intermediate-Networks)
+    - [Feature-level Fusion](#Feature-level-Fusion)
     - [Linear Layers Projection](#Linear-Layers-Projection)
     - [Prompt Tuning](#Prompt-Tuning)
   - [Contrastive Language-Image Pre-Training](#Contrastive-Language-Image-Pre-Training)
