@@ -86,6 +86,7 @@ Note: Categorize MM-LLMs by Modality Encoder, Input Projector, LLM Backbone, Out
 **A Survey on Multimodal Large Language Models**\
 _Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen_\
 arXiv, [[Paper](https://arxiv.org/abs/2306.13549)] [[GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]\
+Note: The Section 3: Training Strategy and Data is a good reference.\
 1 Apr 2024
 
 ## Multimodal Large Language Models
