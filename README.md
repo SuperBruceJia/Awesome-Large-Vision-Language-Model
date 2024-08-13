@@ -21,6 +21,7 @@ This repository, called **Large Vision-Language Model**, contains a collection o
     - [Feature-level Fusion](#Feature-level-Fusion)
     - [Linear Layers Projection](#Linear-Layers-Projection)
     - [Prompt Tuning](#Prompt-Tuning)
+    - [Preference Alignment](#Preference-Alignment)
   - [Contrastive Language-Image Pre-Training](#Contrastive-Language-Image-Pre-Training)
     - [Intermediate Networks](#Intermediate-Networks)
     - [Simple Contrastive Learning Paradigms](#Simple-Contrastive-Learning-Paradigms)
@@ -276,6 +277,12 @@ ICML 2022, [[Paper](https://arxiv.org/abs/2204.14198)] [[Codes and Dataset](http
 _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_\
 ICML 2021, [[Paper](https://arxiv.org/abs/2103.00020)] [[Codes](https://github.com/OpenAI/CLIP)] [[Webpage](https://openai.com/index/clip/)]\
 26 Feb 2021
+
+### Preference Alignment
+**Aligning Large Multimodal Models with Factually Augmented RLHF**\
+_Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, Yu-Xiong Wang, Yiming Yang, Kurt Keutzer, Trevor Darrell_\
+arXiv, [[Paper](https://arxiv.org/abs/2309.14525)] [[Codes](https://github.com/llava-rlhf/LLaVA-RLHF)] [[Webpage](https://llava-rlhf.github.io/)]\
+25 Sep 2023
 
 ## Universal Embedding Space
 **Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**\
