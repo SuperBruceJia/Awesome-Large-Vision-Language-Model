@@ -100,6 +100,11 @@ arXiv, [[Paper](https://arxiv.org/abs/2306.13549)] [[GitHub](https://github.com/
 Note: The Section 3: Training Strategy and Data is a good reference.\
 1 Apr 2024
 
+**Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning**\
+_Yiqi Wang, Wentao Chen, Xiaotian Han, Xudong Lin, Haiteng Zhao, Yongfei Liu, Bohan Zhai, Jianbo Yuan, Quanzeng You, Hongxia Yang_\
+arXiv, [[Paper](https://arxiv.org/abs/2401.06805)]\
+18 Jan 2024
+
 ## Multimodal Large Language Models
 ### Alignment Before Projection
 **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**\
