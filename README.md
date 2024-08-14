@@ -234,6 +234,11 @@ _Keqin Chen, Zhao Zhang, Weili Zeng, Richong Zhang, Feng Zhu, Rui Zhao_\
 arXiv, [[Paper](https://arxiv.org/abs/2306.15195)] [[Codes](https://github.com/shikras/shikra)]\
 3 Jul 2023
 
+**FROMAGe: Grounding Language Models to Images for Multimodal Inputs and Outputs**\
+_Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried_\
+ICML 2023, [[Paper](https://arxiv.org/abs/2301.13823)] [[Codes](https://github.com/kohjingyu/fromage)] [[Webpage](https://jykoh.com/fromage)]\
+13 Jun 2023
+
 **PaLI-X: On Scaling up a Multilingual Vision and Language Model**\
 _Xi Chen, Josip Djolonga, Piotr Padlewski, Basil Mustafa, Soravit Changpinyo, Jialin Wu, Carlos Riquelme Ruiz, Sebastian Goodman, Xiao Wang, Yi Tay, Siamak Shakeri, Mostafa Dehghani, Daniel Salz, Mario Lucic, Michael Tschannen, Arsha Nagrani, Hexiang Hu, Mandar Joshi, Bo Pang, Ceslee Montgomery, Paulina Pietrzyk, Marvin Ritter, AJ Piergiovanni, Matthias Minderer, Filip Pavetic, Austin Waters, Gang Li, Ibrahim Alabdulmohsin, Lucas Beyer, Julien Amelot, Kenton Lee, Andreas Peter Steiner, Yang Li, Daniel Keysers, Anurag Arnab, Yuanzhong Xu, Keran Rong, Alexander Kolesnikov, Mojtaba Seyedhosseini, Anelia Angelova, Xiaohua Zhai, Neil Houlsby, Radu Soricut_\
 arXiv, [[Paper](https://arxiv.org/abs/2305.18565)]\
