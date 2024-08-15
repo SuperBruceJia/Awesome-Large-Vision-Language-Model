@@ -32,22 +32,22 @@ This repository, called **Large Vision-Language Model**, contains a collection o
 # Presentations
 **From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond**\
 _Hao Fei, Yuan Yao, Zhuosheng Zhang, Fuxiao Liu, Ao Zhang, Tat-Seng Chua_\
-LREC-COLING 2024, [[Paper](https://aclanthology.org/2024.lrec-tutorials.1/)] [[Webpage](https://mllm2024.github.io/COLING2024/)]\
+LREC-COLING 2024, [[Paper](https://aclanthology.org/2024.lrec-tutorials.1/)] [[Presentation](https://mllm2024.github.io/COLING2024/)]\
 20 May 2024
 
 **Recent Advances in Vision Foundation Models**\
 _Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jianfeng Gao_\
-CVPR 2023 Tutorial, [[Paper](https://arxiv.org/abs/2309.10020)] [[Webpage](https://vlp-tutorial.github.io/2023/)]\
+CVPR 2023 Tutorial, [[Paper](https://arxiv.org/abs/2309.10020)] [[Presentation](https://vlp-tutorial.github.io/2023/)]\
 18 Sep 2023
 
 **A Vision-and-Language Approach to Computer Vision in the Wild: Building a General-Purpose Assistant in the Visual World Towards Building and Surpassing Multimodal GPT-4**\
 _Chunyuan Li_\
-Deep Learning Team, Microsoft Research, Redmond, [[Presentations](https://chunyuan.li/doc/talk_cvinw_instruction_june2.pdf)]\
+Deep Learning Team, Microsoft Research, Redmond, [[Presentation](https://chunyuan.li/doc/talk_cvinw_instruction_june2.pdf)]\
 1 May 2023
 
 **Flamingo 🦩: A Visual Language Model for Few-Shot Learning**\
 _Andrea Wynn, Xindi Wu_\
-Princeton University, [[Presentations](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec20.pdf)]\
+Princeton University, [[Presentation](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec20.pdf)]\
 21 November 2022
 
 # Books
