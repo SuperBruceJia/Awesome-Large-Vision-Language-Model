@@ -30,7 +30,7 @@ This repository, called **Large Vision-Language Model**, contains a collection o
 - [Acknowledgement](#Acknowledgement)
 
 # Presentations
-**Recent Advances in Vision Foundation Models**
+**Recent Advances in Vision Foundation Models**\
 _Chunyuan Li, Zhe Gan, Haotian Zhang, Jianwei Yang, Linjie Li, Zhengyuan Yang, Kevin Lin, Jianfeng Gao, Lijuan Wang_\
 CVPR 2024 Tutorial, [[Presentation](https://vlp-tutorial.github.io)]\
 18 Sep 2024
