@@ -110,6 +110,11 @@ _Yiqi Wang, Wentao Chen, Xiaotian Han, Xudong Lin, Haiteng Zhao, Yongfei Liu, Bo
 arXiv, [[Paper](https://arxiv.org/abs/2401.06805)]\
 18 Jan 2024
 
+**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**\
+_Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jianfeng Gao_\
+Foundations and Trends in Computer Graphics and Vision, [[Paper](https://arxiv.org/abs/2309.10020)] [[Webpage](https://vlp-tutorial.github.io/2023/)]\
+18 Sep 2023
+
 ## Multimodal Large Language Models
 ### Alignment Before Projection
 **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**\
