@@ -342,6 +342,6 @@ CVPR 2024, [[Paper](https://arxiv.org/abs/2312.07533)] [[Codes](https://github.c
 16 May 2024
 
 # Acknowledgement
-This project is sponsored by the [MedPodGPT](https://medpodgpt.org/) group, Kolachalama Laboratory at Boston University.
+This project is sponsored by the [PodGPT](https://podgpt.org/) group, Kolachalama Laboratory at Boston University.
 
-<a href="https://medpodgpt.org/"> <img width="500" src="https://github.com/user-attachments/assets/234af688-d099-4c51-9122-09b9cff17ac4"></a>
+<a href="https://podgpt.org/"> <img width="500" src="https://github.com/user-attachments/assets/84e28a61-d69b-47d3-a8db-d3605f4562e0"></a>
