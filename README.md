@@ -173,6 +173,11 @@ arXiv, [[Paper](https://arxiv.org/abs/2305.04160)] [[Codes](https://github.com/p
 ### Feature-level Fusion
 Note: These methods can also be categorized in other perspectives. 
 
+**The Llama 3 Herd of Models**\
+_Llama Team, AI @ Meta_\
+arXiv, [[Paper](https://arxiv.org/abs/2407.21783)]\
+15 Aug 2024
+
 **CogVLM: Visual Expert for Pretrained Language Models**\
 _Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, Lei Zhao, Xixuan Song, Jiazheng Xu, Bin Xu, Juanzi Li, Yuxiao Dong, Ming Ding, Jie Tang_\
 arXiv, [[Paper](https://arxiv.org/abs/2311.03079)] [[Codes](https://github.com/THUDM/CogVLM)]\
