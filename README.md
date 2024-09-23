@@ -5,7 +5,7 @@ Awesome Large Vision-Language Model: A Curated List of Large Vision-Language Mod
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model)
 
-This repository, called **Large Vision-Language Model**, contains a collection of resources and papers on **Large Vision-Language Models** and **Medical Foundation Models**. 
+This repository, called **Awesome Large Vision-Language Model**, contains a collection of resources and papers on **Large Vision-Language Models** and **Medical Foundation Models**. 
 
 *Welcome to share your papers, thoughts, and ideas by [submitting an issue](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model/issues/new)!* 
 
