@@ -1,11 +1,11 @@
-# Awesome Large Vision-Language Model
-Awesome Large Vision-Language Model: A Curated List of Large Vision-Language Model
+# Awesome Large Vision-Language Model (VLM)
+Awesome Large Vision-Language Model: A Curated List of Large Vision-Language Model (VLM)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model)
 
-This repository, called **Awesome Large Vision-Language Model**, contains a collection of resources and papers on **Large Vision-Language Models** and **Medical Foundation Models**. 
+This repository, called **Awesome Large Vision-Language Model**, contains a collection of resources and papers on **Large Vision-Language Model (VLM)** and **Medical Foundation Model (FM)**. 
 
 *Welcome to share your papers, thoughts, and ideas by [submitting an issue](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model/issues/new)!* 
 
