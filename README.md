@@ -318,6 +318,11 @@ ICML 2022, [[Paper](https://arxiv.org/abs/2204.14198)] [[Codes and Dataset](http
 15 Feb 2022
 
 ### Simple Contrastive Learning Paradigms
+**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**\
+_Yuhan Zhu, Yuyang Ji, Zhiyu Zhao, Gangshan Wu, Limin Wang_\
+NeurIPS 2024, [[Paper](https://neurips.cc/virtual/2024/poster/94677)] [[Codes](https://github.com/MCG-NJU/AWT)]\
+6 Oct 2024
+
 **CLIP: Learning Transferable Visual Models From Natural Language Supervision**\
 _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_\
 ICML 2021, [[Paper](https://arxiv.org/abs/2103.00020)] [[Codes](https://github.com/OpenAI/CLIP)] [[Webpage](https://openai.com/index/clip/)]\
