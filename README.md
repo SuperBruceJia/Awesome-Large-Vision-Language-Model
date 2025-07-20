@@ -30,9 +30,14 @@ This repository, called **Awesome Large Vision-Language Model**, contains a coll
 - [Acknowledgement](#Acknowledgement)
 
 # Presentations
-**Recent Advances in Vision Foundation Models**\
+**Recent Advances in Vision Foundation Models (2025)**\
+_Zhe Gan, Jianwei Yang, Linjie Li, Zhengyuan Yang, Lijuan Wang_\
+CVPR 2025 Tutorial, [[Presentation](https://vlp-tutorial.github.io/)]\
+18 Sep 2025
+
+**Recent Advances in Vision Foundation Models (2024)**\
 _Chunyuan Li, Zhe Gan, Haotian Zhang, Jianwei Yang, Linjie Li, Zhengyuan Yang, Kevin Lin, Jianfeng Gao, Lijuan Wang_\
-CVPR 2024 Tutorial, [[Presentation](https://vlp-tutorial.github.io)]\
+CVPR 2024 Tutorial, [[Presentation](https://vlp-tutorial.github.io/2024)]\
 18 Sep 2024
 
 **From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond**\
@@ -40,7 +45,7 @@ _Hao Fei, Yuan Yao, Zhuosheng Zhang, Fuxiao Liu, Ao Zhang, Tat-Seng Chua_\
 LREC-COLING 2024, [[Paper](https://aclanthology.org/2024.lrec-tutorials.1/)] [[Presentation](https://mllm2024.github.io/COLING2024/)]\
 20 May 2024
 
-**Recent Advances in Vision Foundation Models**\
+**Recent Advances in Vision Foundation Models (2023)**\
 _Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jianfeng Gao_\
 CVPR 2023 Tutorial, [[Paper](https://arxiv.org/abs/2309.10020)] [[Presentation](https://vlp-tutorial.github.io/2023/)]\
 18 Sep 2023
