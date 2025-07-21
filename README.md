@@ -50,6 +50,11 @@ _Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jia
 CVPR 2023 Tutorial, [[Paper](https://arxiv.org/abs/2309.10020)] [[Presentation](https://vlp-tutorial.github.io/2023/)]\
 18 Sep 2023
 
+**Foundational Models Defining a New Era in Vision: A Survey and Outlook**\
+_Muhammad Awais, Muzammal Naseer, Salman Khan, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Ming-Hsuan Yang, Fahad Shahbaz Khan_\
+IEEE T-PAMI 2025, [[Paper](https://arxiv.org/pdf/2307.13721)] [[GitHub](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)]\
+25 Jul 2023
+
 **A Vision-and-Language Approach to Computer Vision in the Wild: Building a General-Purpose Assistant in the Visual World Towards Building and Surpassing Multimodal GPT-4**\
 _Chunyuan Li_\
 Deep Learning Team, Microsoft Research, Redmond, [[Presentation](https://chunyuan.li/doc/talk_cvinw_instruction_june2.pdf)]\
