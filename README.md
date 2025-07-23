@@ -98,6 +98,11 @@ Note: every question is associated with a pair of similar images that result in 
 
 # Papers
 ## Survey
+**Towards Visual Grounding: A Survey**\
+_Linhui Xiao, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu_\
+arXiv 2024, [[Paper](https://arxiv.org/abs/2412.20206)] [[GitHub](https://github.com/linhuixiao/Awesome-Visual-Grounding)]\
+28 Dec 2024
+
 **The Revolution of Multimodal Large Language Models: A Survey**\
 _Davide Caffagni, Federico Cocchi, Luca Barsellotti, Nicholas Moratelli, Sara Sarto, Lorenzo Baraldi, Lorenzo Baraldi, Marcella Cornia, Rita Cucchiara_\
 ACL 2024, [[Paper](https://arxiv.org/abs/2402.12451)]\
